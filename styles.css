@@ -1,0 +1,27 @@
+body{
+    text-align: left;
+    color: rgb(0, 195, 255);
+    background: black;
+    padding-left: 20%;
+}
+
+input{
+    width: 25%;
+}
+
+label{
+    font-size: 1.4em;
+    font-family: 'Franklin Gothic Medium', 
+        'Arial Narrow', Arial, sans-serif;
+    color: blueviolet;
+}
+
+#t{
+    border: 5px outset red;
+    background-color: lightblue;    
+    text-align: center;
+    height: 10px;
+    width: 50%;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
